@@ -5,10 +5,10 @@
 
 ## Logo
 
-| Preview                                                                          | Download                               |
-| -------------------------------------------------------------------------------- | -------------------------------------- |
-| <img src="./logo/hack-logo.svg" alt="Brandeis HACK Club Logo">                   | [square](./logos/hack-logo.svg)        |
-| <img src="./logo/hack-logo-circle.svg" alt="Brandeis HACK Club Logo (circular)"> | [circle](./logos/hack-logo-circle.svg) |
+| Preview                                                                                      | Download                               |
+| -------------------------------------------------------------------------------------------- | -------------------------------------- |
+| <img src="./logos/hack-logo.svg" alt="Brandeis HACK Club Logo" width="64">                   | [square](./logos/hack-logo.svg)        |
+| <img src="./logos/hack-logo-circle.svg" alt="Brandeis HACK Club Logo (circular)" width="64"> | [circle](./logos/hack-logo-circle.svg) |
 
 ## Colors
 
