@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hack-logo.svg" alt="Brandeis HACK Club Logo" width="128">
+  <img src="./logos/hack-logo.svg" alt="Brandeis HACK Club Logo" width="128">
   <h1>Brandeis HACK Club Branding</h1>
 </div>
 
@@ -33,10 +33,12 @@
 
 ## Fonts
 
-| Preview                                                                  | Name            |
-| ------------------------------------------------------------------------ | --------------- |
-| <img src="./fonts/geist-demo.svg" alt="Gest font demo">                  | `Geist`         |
-| <img src="./fonts/geist-mono-demo.svg" alt="Gest Mono font demo">        | `Geist Mono`    |
-| <img src="./fonts/space-grotesk-demo.svg" alt="Space Grotesk font demo"> | `Space Grotesk` |
+| Preview                                                                  | Name            | Download |
+| ------------------------------------------------------------------------ | --------------- | -------- |
+| <img src="./fonts/geist-demo.svg" alt="Gest font demo">                  | `Geist`         | [Black](./fonts/Geist/static/Geist-Black.ttf) | [Bold](./fonts/Geist/static/Geist-Bold.ttf) | [ExtraBold](./fonts/Geist/static/Geist-ExtraBold.ttf) | [SemiBold](./fonts/Geist/static/Geist-SemiBold.ttf) | [Medium](./fonts/Geist/static/Geist-Medium.ttf) | [Regular](./fonts/Geist/static/Geist-Regular.ttf) | [ExtraLight](./fonts/Geist/static/Geist-ExtraLight.ttf) | [Light](./fonts/Geist/static/Geist-Light.ttf) | [Thin](./fonts/Geist/static/Geist-Thin.ttf) |
+| <img src="./fonts/geist-mono-demo.svg" alt="Gest Mono font demo">        | `Geist Mono`    | Download |
+| <img src="./fonts/space-grotesk-demo.svg" alt="Space Grotesk font demo"> | `Space Grotesk` | Download |
+
+
 
 More info about the fonts at <https://fontdrop.info>
