@@ -35,7 +35,7 @@
 
 | Preview                                                                  | Name            | Download |
 | ------------------------------------------------------------------------ | --------------- | -------- |
-| <img src="./fonts/geist-demo.svg" alt="Gest font demo">                  | `Geist`         | [Black](./fonts/Geist/static/Geist-Black.ttf) | [Bold](./fonts/Geist/static/Geist-Bold.ttf) | [ExtraBold](./fonts/Geist/static/Geist-ExtraBold.ttf) | [SemiBold](./fonts/Geist/static/Geist-SemiBold.ttf) | [Medium](./fonts/Geist/static/Geist-Medium.ttf) | [Regular](./fonts/Geist/static/Geist-Regular.ttf) | [ExtraLight](./fonts/Geist/static/Geist-ExtraLight.ttf) | [Light](./fonts/Geist/static/Geist-Light.ttf) | [Thin](./fonts/Geist/static/Geist-Thin.ttf) |
+| <img src="./fonts/geist-demo.svg" alt="Gest font demo">                  | `Geist`         | [Black](./fonts/Geist/static/Geist-Black.ttf), [Bold](./fonts/Geist/static/Geist-Bold.ttf), [ExtraBold](./fonts/Geist/static/Geist-ExtraBold.ttf), [SemiBold](./fonts/Geist/static/Geist-SemiBold.ttf), [Medium](./fonts/Geist/static/Geist-Medium.ttf), [Regular](./fonts/Geist/static/Geist-Regular.ttf), [ExtraLight](./fonts/Geist/static/Geist-ExtraLight.ttf), [Light](./fonts/Geist/static/Geist-Light.ttf), [Thin](./fonts/Geist/static/Geist-Thin.ttf) |
 | <img src="./fonts/geist-mono-demo.svg" alt="Gest Mono font demo">        | `Geist Mono`    | Download |
 | <img src="./fonts/space-grotesk-demo.svg" alt="Space Grotesk font demo"> | `Space Grotesk` | Download |
 
